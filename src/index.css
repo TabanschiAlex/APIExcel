@@ -1,0 +1,57 @@
+body {
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+
+section {
+  width: 70%;
+  height: 100vh;
+  border-right: 2px solid black;
+}
+
+aside {
+  width: 30%;
+  height: 100vh;
+  background: darkgray;
+}
+
+#aside-top {
+  height: 60%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input, select, option {
+  width: 90%;
+  height: 25px;
+  font-size: 15px;
+  text-align: center;
+}
+
+#aside-bottom {
+  height: 40%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+button {
+  background: transparent;
+  border: 0;
+}
+
+.btn {
+  width: 90%;
+  min-height: 40px;
+  background: gray;
+  margin: 0 10px 10px 10px;
+  font-family: "Times New Roman", serif;
+  font-size: 20px;
+}
+
+.btn:hover {
+  background: dimgrey;
+}
