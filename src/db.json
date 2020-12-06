@@ -1,0 +1,68 @@
+[
+  {
+    "Mark": "Volkswagen",
+    "Model": "Polo",
+    "Year": 2020,
+    "Quantity": 15
+  },
+  {
+    "Mark": "Volkswagen",
+    "Model": "Golf",
+    "Year": 2019,
+    "Quantity": 25
+  },
+  {
+    "Mark": "Volkswagen",
+    "Model": "Passat",
+    "Year": 2019,
+    "Quantity": 10
+  },
+  {
+    "Mark": "Toyota",
+    "Model": "Camry",
+    "Year": 2018,
+    "Quantity": 5
+  },
+  {
+    "Mark": "Toyota",
+    "Model": "Supra",
+    "Year": 2020,
+    "Quantity": 1
+  },
+  {
+    "Mark": "BMW",
+    "Model": "3 Series, 340",
+    "Year": 2016,
+    "Quantity": 2
+  },
+  {
+    "Mark": "Honda",
+    "Model": "Civic",
+    "Year": 2018,
+    "Quantity": 10
+  },
+  {
+    "Mark": "Honda",
+    "Model": "Accord",
+    "Year": 2018,
+    "Quantity": 10
+  },
+  {
+    "Mark": "Mitsubishi",
+    "Model": "Lancer X",
+    "Year": 2017,
+    "Quantity": 6
+  },
+  {
+    "Mark": "Audi",
+    "Model": "A4",
+    "Year": 2019,
+    "Quantity": 9
+  },
+  {
+    "Mark": "",
+    "Model": "",
+    "Year": "Total Quantity:",
+    "Quantity": ""
+  }
+]

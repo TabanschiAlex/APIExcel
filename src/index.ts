@@ -25,6 +25,7 @@ const createWindow = (): void => {
 
   // Open the DevTools.
   mainWindow.webContents.openDevTools();
+  mainWindow.setAutoHideMenuBar(true);
 };
 
 // This method will be called when Electron has finished
